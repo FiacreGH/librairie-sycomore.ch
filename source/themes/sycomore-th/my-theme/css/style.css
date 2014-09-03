@@ -1,0 +1,281 @@
+/*
+**  Ecodev - 2000 Neuchatel - http://ecodev.ch
+**  last revised: 22.12.2009
+**  last revised: 09.05.2014 MR
+
+Screen layout: */
+
+body {
+margin: 0 auto;
+padding: 0;
+font: 76% Verdana, Helvetica, Arial, sans-serif;
+background: #f4f4f4 url(bg.gif) top center repeat-y;
+}
+
+table{
+font-size: 100%;
+}
+
+table p {
+padding:0;
+margin: 0;
+}
+
+table td{
+/* border-bottom: 1px dotted #333; */
+}
+
+#wrap {
+background: #ffffff;
+color: #303030;
+margin: 0 auto;
+width: 760px;
+}
+
+#header {
+clear: both;
+/* margin: 20px 0 0 0; */
+margin: 1px 0 0 0;
+padding: 0;
+/* height: 40px; */
+height: 1px;
+}
+
+
+
+
+
+#header p {
+width: 600px;
+float: right;
+text-align: right;
+color: #a0a0a0;
+margin: 0 0 10px 0;
+font-size: 0.8em;
+line-height: 1.8em;
+}
+
+#frontphoto {
+margin: 0 0 10px 0;
+border: 0;
+}
+
+#avmenu {
+clear: left;
+float: left;
+width: 150px;
+margin: 40px 0 10px 0;
+padding: 0;
+font-size: 1em;
+}
+
+#avmenu ul {
+list-style: none;
+width: 150px;
+margin: 0 0 20px 0;
+padding: 0;
+font-size: 1.3em;
+}
+
+#avmenu li {
+margin-bottom: 4px;
+list-style: none;
+}
+
+#avmenu li a {
+font-weight: bold;
+height: 20px;
+text-decoration: none;
+color: #505050;
+display: block;
+padding: 6px 0 0 10px;
+background: #f4f4f4;
+border-left: 4px solid #cccccc;
+}
+
+#avmenu li a:hover {
+background: #eaeaea;
+color: #336633;
+border-left: 4px solid #336633;
+}
+
+
+#avmenu li div a {
+background: #eaeaea;
+color: #336633;
+border-left: 4px solid #336633;
+padding: 6px 0 0 0 px;
+}
+
+
+.announce {
+margin: 10px 0 10px 0;
+padding: 10px;
+width: 130px;
+color: #505050;
+background-color: #f4f4f4;
+line-height: 1.3em;
+}
+
+#extras {
+float: right;
+width: 100px;
+margin: 0 0 10px 0;
+padding: 0;
+font-size: 0.9em;
+line-height: 1.5em;
+}
+
+#extras p {
+margin: 0 0 1.5em 0;
+}
+
+#content {
+/*margin: 0 10px 20px 160px;*/
+margin: 0 0 5px 160px;
+border-left: 1px solid #f0f0f0;
+border-right: 1px solid #f0f0f0;
+padding: 0 10px 0 10px;
+line-height: 1.5em;
+text-align: left;
+min-height: 300px;
+}
+
+#content h1 {
+font-size: 1.4em;
+line-height: 1.7em;
+padding-top: 1.5em;
+color: #336633;
+border-bottom: 1px #a0a0a0 solid;
+}
+
+#content h2 {
+font-size: 1.3em;
+line-height: 1.6em;
+}
+
+#content h3 {
+font-size: 1.1em;
+color: #505050;
+}
+
+#content img {
+padding: 1px;
+display:inline;
+}
+
+a {
+text-decoration: none;
+color: #286ea0;
+}
+
+a:hover {
+text-decoration: underline;
+color: #286ea0;
+}
+
+a img {
+border: 0;
+}
+
+#footer {
+clear: both;
+margin: 0 auto;
+padding: 10px 0 20px 0;
+border-top: 4px solid #f0f0f0;
+width: 760px;
+text-align: center;
+color: #808080;
+font-size: 0.9em;
+}
+
+#footer a {
+color: #808080;
+text-decoration: none;
+}
+
+#footer a:hover {
+text-decoration: underline;
+}
+
+.left {
+margin: 10px 10px 5px 0;
+float: left;
+}
+
+.right {
+margin: 10px 0 5px 10px;
+float: right;
+}
+
+.textright {
+text-align: right;
+}
+
+.center {
+text-align: center;
+}
+
+.small {
+font-size: 0.8em;
+}
+
+.bold {
+font-weight: bold;
+}
+
+.hide {
+display: none;
+}
+
+/* formhandler */
+#formhandler_lecture_form fieldset {
+	border: 2px solid #C6C6C6;
+	border-radius: 6px;
+	margin: 10px;
+	padding: 10px;
+}
+
+#formhandler_lecture_form legend {
+	color: #C6C6C6;
+	font-weight: bold;
+	border:none;
+	margin-bottom: 0px;
+	padding: 4px;
+	width: auto;
+}
+#formhandler_lecture_form label {
+	width: 160px;
+	display: block;
+}
+#formhandler_lecture_form input {
+	width: 400px;
+	margin-bottom: 3px;
+}
+#formhandler_lecture_form input[type="radio"] {
+	width: 20px;
+}
+#formhandler_lecture_form input[type="checkbox"] {
+	width: 20px;
+}
+#formhandler_lecture_form textarea {
+	width: 400px;
+	margin-bottom: 3px;
+}
+#formhandler_lecture_form #comments {
+	width: 400px;
+}
+
+#formhandler_lecture_form input[type="submit"] {
+	width: 120px;
+	font-size: 120%;
+	height: 30px;
+	margin-left:165px;
+	margin-top: 10px;
+}
+
+.indent { margin-left:40px; }
+.small_info { font-size:smaller;color:gray; }
+
+a div.errorBox span.error { background-color: yellow; color:red; font-weight:bold; padding:2px; }
+a:hover div.errorBox span.error { text-decoration: none; }

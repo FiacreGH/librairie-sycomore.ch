@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+{% for stylesheet in theme_paths('css/style.css') %}
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/{{ stylesheet }}"/>
+{% endfor %}
+<head>
+	<meta charset="UTF-8">
+	<title>Librairie Sycomore</title>
+</head>
+<body>
+{% block content %}{% endblock%}
+</body>
+</html>
