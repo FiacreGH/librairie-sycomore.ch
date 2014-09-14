@@ -1,13 +1,106 @@
 <!doctype html>
-<html lang="en">
-{% for stylesheet in theme_paths('css/style.css') %}
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/{{ stylesheet }}"/>
-{% endfor %}
+<html lang="fr">
 <head>
 	<meta charset="UTF-8">
 	<title>Librairie Sycomore</title>
+	{% for stylesheet in theme_paths('css/style.css') %}
+	<link rel="stylesheet" type="text/css" href="{{ site.url }}/{{ stylesheet }}"/>
+	{% endfor %}
 </head>
 <body>
-{% block content %}{% endblock%}
+
+<div id="wrap">
+
+	<div id="header">
+		<p></p>
+	</div>
+
+	<a href="http://www.librairie-sycomore.ch/">
+		<img id="frontphoto" src="/sycomore-images/front.jpg" alt="" height="175"
+	                                                 width="760">
+	</a>
+
+	<div id="avmenu">
+			<li>
+				<div>
+					<a href="/#/">Accueil</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/30ans/">30 ans</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/livres/">Livres</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/nouveautes/">Nouveautés</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/critiques/">Critiques</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/coups-de-coeur/">Coups de coeur</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/bibliographies/">Bibliographies</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/evenements/">Évenements</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/tete-a-tete/">Tête à tête</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/interviews/">Interview</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/cartes-et-artisanat/">Cartes et artisanat</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/association/">Association</a>
+				</div>
+			</li>
+			<li>
+				<div>
+					<a href="/contact/">Contact</a>
+				</div>
+			</li>
+	</div>
+
+	<div id="content"><!--TYPO3SEARCH_begin-->
+		{% block content %}{% endblock%}
+	</div>
+
+	<div id="footer">Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
+		<script type="text/javascript" language="Javascript">email('info', 'librairie-sycomore.ch', '', 1);</script>
+		<a href="mailto:info@librairie-sycomore.ch">info@librairie-sycomore.ch</a>
+		• conception
+		<a href="http://ecodev.ch">Ecodev</a>
+	</div>
+
+</div>
+
+
 </body>
 </html>

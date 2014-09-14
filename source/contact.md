@@ -1,20 +1,10 @@
-Librairie chrétienne Le Sycomore
-================================
+---
+layout: default
+title: contact
+nav_name: contact
+slug: contact
+---
 
-[![](fileadmin/templates/front.jpg)](http://www.librairie-sycomore.ch/)
-[Accueil](accueil/)
-[30ans](30ans/)
-[Livres](livres/)
-[Nouveautés](nouveautes/)
-[Critiques](critiques/)
-[Coups de coeur](coups-de-coeur/)
-[Bibliographies](bibliographies/)
-[Événements](evenements/)
-[Tête à tête](tete-a-tete/)
-[Interviews](interviews/)
-[Cartes et artisanat](cartes-et-artisanat/)
-[Association](association/)
-[Contact](contact/)
 
 Contact
 =======
@@ -46,6 +36,3 @@ de 09h30 à 12h30
  
 
 [Agrandir le plan](http://maps.google.ch/maps?f=q&source=embed&hl=fr&geocode=&q=rue+des+chavannes+12,+2000&sll=46.362093,9.036255&sspn=4.928221,7.547607&ie=UTF8&hq=&hnear=Rue+des+Chavannes+12,+2000+Neuch%C3%A2tel&ll=46.993807,6.930656&spn=0.004391,0.012317&z=16&iwloc=A)
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)
