@@ -293,3 +293,7 @@ a div.errorBox span.error {
 a:hover div.errorBox span.error {
 	text-decoration: none;
 }
+
+.float-right {
+	float: right;
+}
