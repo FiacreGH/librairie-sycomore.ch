@@ -8,7 +8,7 @@ slug: ligue-lecture-bible
 Ligue Lecture Bible
 ===================
 
-***![](/sycomore-images/cb_17.jpg)Choix de nouveautés de la [Ligue pour la Lecture de la Bible](http://www.ligue.be/catalogue/F_frame.html?http://www.ligue.be/catalogue/NOUVEAUTES_F_grp_24-1.html).***
+***![](/images/cb_17.jpg)Choix de nouveautés de la [Ligue pour la Lecture de la Bible](http://www.ligue.be/catalogue/F_frame.html?http://www.ligue.be/catalogue/NOUVEAUTES_F_grp_24-1.html).***
 
 **Jan Pit – Les liens de la liberté**
 

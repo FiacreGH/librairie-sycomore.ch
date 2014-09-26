@@ -8,7 +8,7 @@ slug: albin-michel
 Albin Michel
 ============
 
-<span style="font-style: italic;">![](/sycomore-images/logo-haut.jpg)Choix de nouveautés [Albin Michel](http://www.albin-michel.fr/categorie-Spiritualites-04)2009 - 2011</span>
+<span style="font-style: italic;">![](/images/logo-haut.jpg)Choix de nouveautés [Albin Michel](http://www.albin-michel.fr/categorie-Spiritualites-04)2009 - 2011</span>
 
 Maurice Bellet – « Je ne suis pas venu apporter la paix… »
 

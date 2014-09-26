@@ -8,7 +8,7 @@ slug: desclee-de-brouwer
 Desclée de Brouwer
 ==================
 
-<span style="font-weight: bold;"><span style="font-style: italic;">![](/sycomore-images/DDB.gif)Choix de nouveautés printemps 2011 chez [Desclée de Brouwer](http://www.rue-des-livres.com/editeurs/347/desclee_de_brouwer.html).</span></span>
+<span style="font-weight: bold;"><span style="font-style: italic;">![](/images/DDB.gif)Choix de nouveautés printemps 2011 chez [Desclée de Brouwer](http://www.rue-des-livres.com/editeurs/347/desclee_de_brouwer.html).</span></span>
 
 <span style="font-weight: bold;">Collectif - De Jésus à Jésus Christ, le Christ dans l'histoire</span>
 

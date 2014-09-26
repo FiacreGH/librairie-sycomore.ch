@@ -43,7 +43,7 @@ les [Éditions Salvator](/editions-salvator/)(nouveau).
 Maison de la Bible
 ==================
 
-***![](/sycomore-images/logo.png) Choix de nouveautés de la [Maison de la Bible](http://www.maisonbible.net/)***
+***![](/images/logo.png) Choix de nouveautés de la [Maison de la Bible](http://www.maisonbible.net/)***
 
 **<span style="font-weight: normal; ">**Donald **</span>Miller – Sans père ni repère**, chez Ourania
 
@@ -74,7 +74,7 @@ Les religions sont-elles à la racine de tous les maux? Sont-elles facteur d’i
 Éditions Ouverture
 ==================
 
-***![](/sycomore-images/nav_bleu-1.gif) Choix de nouveautés aux [Editions Ouvertures](http://www.editionsouverture.ch/ouvrages/nouveaute.php) 2011***
+***![](/images/nav_bleu-1.gif) Choix de nouveautés aux [Editions Ouvertures](http://www.editionsouverture.ch/ouvrages/nouveaute.php) 2011***
 
 **Roger Chatelain – Du signe à la page**
 
@@ -91,7 +91,7 @@ Voilà un ouvrage où sont jetées en vrac des réflexions sur ce livre étrange
 **Emma D'Hautbois – Scènes du ciel et de la terre**
 
 "Les poètes, les artistes et les mystiques sont des gens qui cherchent inlassablement la cachette de Dieu." (Picasso) A la lecture de ses poèmes, on ne peut s'empêcher de penser qu'Emma D'Hautbois non seulement a cherché cette cachette, mais qu'elle l'a trouvée et nous en donne la clé. Son secret ? Elle écoute la nature. Or, il se trouve que la création est poétique par essence. Les poèmes d'Emma nous séduisent de suite. Tout est musique dans les mots comme tout est musique dans les êtres. La lumière réussit à s'infiltrer partout; il n'y a pas de ténèbres sans aube, pas de nuits sans étoiles, de nuages sans ciel bleu.
-![](/sycomore-images/
+![](/images/
 **Renato Zilio – Au commencement était le rythme**
 
 Appel à partager généreusement, dans un accueil fraternel et ouvert, les différences qui font la richesse de chaque culture. D'un regard insolite, d'une parole poétique, philosophique, l'auteur laisse transparaître dans son langage la passion qui l'habite : la construction d'une unité vivante et féconde, faite de la communion de nos différences. Où chacun laisse l'autre entrevoir son mystère et dans cet échange grandit en humanité.
@@ -101,7 +101,7 @@ Appel à partager généreusement, dans un accueil fraternel et ouvert, les diff
 Labor et Fides
 ==============
 
-<span style="font-style: italic;"> ![](/sycomore-images/logo.jpg) Choix de nouveautés [Labor et Fides](http://www.laboretfides.com/?cat=new)2011</span>
+<span style="font-style: italic;"> ![](/images/logo.jpg) Choix de nouveautés [Labor et Fides](http://www.laboretfides.com/?cat=new)2011</span>
 
 Michel Cornuz - Soeur Minke de Grandchamp. Entretiens
 
@@ -126,7 +126,7 @@ Croire avec Freud ? propose une analyse inédite de la vie de Freud à travers l
 Albin Michel
 ============
 
-<span style="font-style: italic;">![](/sycomore-images/logo-haut.jpg)Choix de nouveautés [Albin Michel](http://www.albin-michel.fr/categorie-Spiritualites-04)2009 - 2011</span>
+<span style="font-style: italic;">![](/images/logo-haut.jpg)Choix de nouveautés [Albin Michel](http://www.albin-michel.fr/categorie-Spiritualites-04)2009 - 2011</span>
 
 Maurice Bellet – « Je ne suis pas venu apporter la paix… »
 

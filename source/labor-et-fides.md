@@ -9,7 +9,7 @@ slug: labor-et-fides
 Labor et Fides
 ==============
 
-<span style="font-style: italic;">![](/sycomore-images/logo.jpg)Choix de nouveautés [Labor et Fides](http://www.laboretfides.com/?cat=new)2011</span>
+<span style="font-style: italic;">![](/images/logo.jpg)Choix de nouveautés [Labor et Fides](http://www.laboretfides.com/?cat=new)2011</span>
 
  
 

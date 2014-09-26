@@ -8,7 +8,7 @@ slug: editions-empreinte
 Editions Empreinte
 ==================
 
-***![](/sycomore-images/header_img.jpg)Choix de nouveautés 2011 des*** [***Editions Empreinte***](http://www.editions-empreinte.com/catalog.php?rub=6&ss_rub=6)***.***
+***![](/images/header_img.jpg)Choix de nouveautés 2011 des*** [***Editions Empreinte***](http://www.editions-empreinte.com/catalog.php?rub=6&ss_rub=6)***.***
 
 **Keith Ward – Les religions sont-elles dangereuses?**, chez Empreinte
 

@@ -8,7 +8,7 @@ slug: blf-europe
 BLF Europe
 ==========
 
-***![](/sycomore-images/logo_blf.jpg)Choix de nouveautés 2011 de [BLF Europe](http://www.blfeurope.com/boutique/nouveautes).***
+***![](/images/logo_blf.jpg)Choix de nouveautés 2011 de [BLF Europe](http://www.blfeurope.com/boutique/nouveautes).***
 
 **Francis Chan – Crazy love - Amour fou**, chez BLF Europe
 

@@ -9,7 +9,7 @@ slug: editions-olivetan
 Éditions Olivetan
 =================
 
-<span style="font-weight: bold;"><span style="font-style: italic;">![](/sycomore-images/Olivetan.jpg)Choix de nouveautés 2011 des [Éditions Olivetan](http://www.editions-olivetan.com/index.chtml?page=listenouveau).</span></span>
+<span style="font-weight: bold;"><span style="font-style: italic;">![](/images/Olivetan.jpg)Choix de nouveautés 2011 des [Éditions Olivetan](http://www.editions-olivetan.com/index.chtml?page=listenouveau).</span></span>
 
 <span style="font-family:&quot;Georgia&quot;,&quot;serif&quot;; mso-bidi-font-family:Arial"><span style="font-weight: bold;">Collectif – Ecoute !</span></span>
 

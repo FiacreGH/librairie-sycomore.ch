@@ -8,7 +8,7 @@ slug: 30ans
 Bienvenue
 =========
 
-![](sycomore-images/8f6b3e69a4.jpg)
+![](images/8f6b3e69a4.jpg)
 
 Le Sycomore est une librairie, mais aussi un lieu paisible d'accueil et de rencontre [au coeur de la zone piétonne de Neuchâtel](/contact/).
 

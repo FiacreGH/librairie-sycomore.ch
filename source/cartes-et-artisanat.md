@@ -15,5 +15,5 @@ Toute l'année, des <span style="font-weight: bold;">cadeaux</span> personnalis�
 
 Grand choix d'<span style="font-weight: bold;">artisanat</span>: bougies aux couleurs lumineuses, reproductions d'icônes, croix et autres objets; en passant, jetez un coup d'oeil à  notre coin musique et multimédias (CD, CD-Rom, DVD, etc.)
 
- ![](/sycomore-images/numerisation0001.jpg)    ![](/sycomore-images/numerisation0002.jpg)     ![](/sycomore-images/numerisation0003.jpg)      ![](/sycomore-images/numerisation0004.jpg)
+ ![](/images/numerisation0001.jpg)    ![](/images/numerisation0002.jpg)     ![](/images/numerisation0003.jpg)      ![](/images/numerisation0004.jpg)
 

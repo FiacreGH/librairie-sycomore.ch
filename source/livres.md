@@ -10,7 +10,7 @@ slug: livres
 Livres
 ======
 
-![](/sycomore-images/f7a79cfa2b.jpg)
+![](/images/f7a79cfa2b.jpg)
 
 Plus de 50 <span style="font-weight: bold;">Bibles</span> de différentes versions, en diverses langues, aux formats et reliures variés sont présentées aux côtés d'ouvrages de théologie, de culture biblique (langues anciennes, histoire de l'Eglise, dictionnaires, commentaires, concordances).
 

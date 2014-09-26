@@ -9,7 +9,7 @@ slug: editions-ouverture
 Éditions Ouverture
 ==================
 
-***![](/sycomore-images/nav_bleu-1.gif)Choix de nouveautés aux [Editions Ouvertures](http://www.editionsouverture.ch/ouvrages/nouveaute.php) 2011***
+***![](/images/nav_bleu-1.gif)Choix de nouveautés aux [Editions Ouvertures](http://www.editionsouverture.ch/ouvrages/nouveaute.php) 2011***
 
 <span style="font-family:&quot;Georgia&quot;,&quot;serif&quot;; mso-bidi-font-family:Arial">Francine Carrillo – Le sable de l’instant</span>
 

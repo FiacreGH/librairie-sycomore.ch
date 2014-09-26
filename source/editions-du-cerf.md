@@ -8,7 +8,7 @@ slug: editions-du-cerf
 Éditions du Cerf
 ================
 
-<span style="font-style: italic;"><span style="font-weight: bold;">![](/sycomore-images/editions-du-cerf.jpg)Choix de nouveautés du printemps 2011 aux [Éditions du Cerf](http://www.editionsducerf.fr/html/nouveautes.asp?id_theme=0).</span></span>
+<span style="font-style: italic;"><span style="font-weight: bold;">![](/images/editions-du-cerf.jpg)Choix de nouveautés du printemps 2011 aux [Éditions du Cerf](http://www.editionsducerf.fr/html/nouveautes.asp?id_theme=0).</span></span>
 
  
 
