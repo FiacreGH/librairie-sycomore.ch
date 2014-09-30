@@ -1,0 +1,12 @@
+{
+	"require": {
+		"mavimo/sculpin-redirect-bundle": "@dev",
+		"fab/sculpin-pages-bundle": "@dev"
+	},
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/fudriot/sculpin-pages-bundle.git"
+		}
+	]
+}
