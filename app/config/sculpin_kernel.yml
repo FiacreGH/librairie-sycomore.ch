@@ -1,0 +1,4 @@
+sculpin_content_types:
+    pages:
+        permalink: pretty
+        layout: page
