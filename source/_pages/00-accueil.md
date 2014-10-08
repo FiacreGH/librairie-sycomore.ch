@@ -1,5 +1,5 @@
 ---
-title: 30 ans
+title: Accueil
 redirect:
     - index.html
 ---
