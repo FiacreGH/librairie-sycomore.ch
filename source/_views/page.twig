@@ -7,8 +7,7 @@
         <ul>
             {% for menu in page.menu %}
                 <li>
-                    <!-- should compare against the slug and not the nav_name menu.slug == page.slug -->
-                    <a href="{{ site.url }}/{{ menu.title|url_encode(true) }}" {% if menu.title == page.nav_name %}class="active" {% endif %}>{{ menu.title }}</a>
+                    <a href="{{ site.url }}/{{ menu.slug|url_encode(true) }}" {% if menu.slug == page.slug %}class="active" {% endif %}>{{ menu.title }}</a>
                 </li>
             {% endfor %}
         </ul>
