@@ -5,7 +5,6 @@ class SculpinKernel extends \Sculpin\Bundle\SculpinBundle\HttpKernel\AbstractKer
 	protected function getAdditionalSculpinBundles() {
 
 		return array(
-			'Mavimo\Sculpin\Bundle\EditorBundle\SculpinEditorBundle',
 			'Mavimo\Sculpin\Bundle\RedirectBundle\SculpinRedirectBundle',
 			'Fab\Sculpin\Bundle\PagesBundle\SculpinPagesBundle',
 		);
