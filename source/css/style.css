@@ -12,18 +12,6 @@ body {
 	background: #f4f4f4 url(bg.gif) top center repeat-y;
 }
 
-table {
-	font-size: 100%;
-}
-
-table p {
-	padding: 0;
-	margin: 0;
-}
-
-table td {
-	/* border-bottom: 1px dotted #333; */
-}
 
 #wrap {
 	background: #ffffff;
@@ -51,9 +39,10 @@ table td {
 	line-height: 1.8em;
 }
 
-#frontphoto {
-	margin: 0 0 10px 0;
-	border: 0;
+#avmenu ul li a:active{
+	background: #eaeaea;
+	color: #336633;
+	border-left: 4px solid #336633;
 }
 
 #avmenu {
@@ -70,15 +59,14 @@ table td {
 	width: 150px;
 	margin: 0 0 20px 0;
 	padding: 0;
-	font-size: 1.3em;
 }
 
-#avmenu li {
+#avmenu ul li {
 	margin-bottom: 4px;
 	list-style: none;
 }
 
-#avmenu li a {
+#avmenu ul li a {
 	font-weight: bold;
 	height: 20px;
 	text-decoration: none;
@@ -89,13 +77,13 @@ table td {
 	border-left: 4px solid #cccccc;
 }
 
-#avmenu li a:hover {
+#avmenu ul li a:hover {
 	background: #eaeaea;
 	color: #336633;
 	border-left: 4px solid #336633;
 }
 
-#avmenu li div a {
+#avmenu ul li div a {
 	background: #eaeaea;
 	color: #336633;
 	border-left: 4px solid #336633;
@@ -296,4 +284,14 @@ a:hover div.errorBox span.error {
 
 .float-right {
 	float: right;
+}
+.float-left {
+	float: left;
+}
+
+img.image{
+	margin-left: 10px;
+	width: 94px;
+	height: 122px;
+	display: inline;
 }

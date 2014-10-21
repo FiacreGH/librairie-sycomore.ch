@@ -5,25 +5,22 @@ title: Maître Eckhart
 Maître Eckhart
 ==============
 
-<span style="font-weight: bold;">Maître Eckhart - <span style="font-style: italic;">Les sermons</span></span>, Albin Michel.
+**Maître Eckhart - *Les sermons***, Albin Michel.
 
-<span style="font-weight: bold;">Maître Eckhart - <span style="font-style: italic;">Les traités</span></span>, Éditions du Seuil.
+**Maître Eckhart - *Les traités***, Éditions du Seuil.
 
-<span style="font-weight: bold;">Maître Eckhart - <span style="font-style: italic;">Conseils spirituels</span></span>, Éditions Rivages.
+**Maître Eckhart - *Conseils spirituels***, Éditions Rivages.
 
-<span style="font-weight: bold;">Maître Eckhart - <span style="font-style: italic;">Aphorismes et légendes</span></span>, Éditions Rivages.
+**Maître Eckhart - *Aphorismes et légendes***, Éditions Rivages.
 
-<span style="font-weight: bold;">Reiner Schürmann - <span style="font-style: italic;">Maître Eckhart ou la joie errante</span></span>, Éditions Rivages.
+**Reiner Schürmann - *Maître Eckhart ou la joie errante***, Éditions Rivages.
 
-<span style="font-weight: bold;">Cyprian Smith - <span style="font-style: italic;">Un chemin de paradoxe</span></span>. La vie spirituelle selon Maître Eckhart, Le Cerf.
+**Cyprian Smith - *Un chemin de paradoxe***. La vie spirituelle selon Maître Eckhart, Le Cerf.
 
-<span style="font-weight: bold;">Jean-François Malherbe - <span style="font-style: italic;">Maître Eckhart</span></span>. "Souffrir Dieu", Le Cerf.
+**Jean-François Malherbe - *Maître Eckhart***. "Souffrir Dieu", Le Cerf.
 
-<span style="font-weight: bold;">Benoît Beyer de Ryke - <span style="font-style: italic;">Maître Eckhart</span></span>. Figure centrale de la mystique médiévale, Éditions Entrelacs.
+**Benoît Beyer de Ryke - *Maître Eckhart***. Figure centrale de la mystique médiévale, Éditions Entrelacs.
 
-<span style="font-weight: bold;">Jeanne Ancelet-Hustache - <span style="font-style: italic;">Maître Eckhart et la mystique rhénane</span></span>, Éditions du Seuil.
+**Jeanne Ancelet-Hustache - *Maître Eckhart et la mystique rhénane***, Éditions du Seuil.
 
-<span style="font-weight: bold;">Dom André Gozier - <span style="font-style: italic;">Prier 15 jours avec Maître Eckhart</span></span>, Nouvelle Cité.
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)
+**Dom André Gozier - *Prier 15 jours avec Maître Eckhart***, Nouvelle Cité.

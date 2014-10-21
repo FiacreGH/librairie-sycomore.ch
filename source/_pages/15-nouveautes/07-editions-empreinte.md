@@ -5,7 +5,7 @@ title: Éditions Empreinte
 Editions Empreinte
 ==================
 
-***![](/images/header_img.jpg)Choix de nouveautés 2011 des*** [***Editions Empreinte***](http://www.editions-empreinte.com/catalog.php?rub=6&ss_rub=6)***.***
+***![](/images/header_img.jpg){.float-right}Choix de nouveautés 2011 des*** [***Editions Empreinte***](http://www.editions-empreinte.com/catalog.php?rub=6&ss_rub=6)***.***
 
 **Keith Ward – Les religions sont-elles dangereuses?**, chez Empreinte
 
@@ -26,6 +26,3 @@ Comment comprendre la Bible ? Comment en percevoir le sens pour le vivre au quot
 **Jacques et Valérie Poujol – 10 clés pour la vie chrétienne**, chez Empreinte
 
 La vie spirituelle est un long cheminement qui nous conduit parfois dans de verdoyantes oasis de joie, de plénitude et d’harmonie, mais nous devons aussi affronter les brûlants déserts de l’épreuve et du découragement, et nous restons seuls avec nos perplexités et nos interrogations. A tous ceux qui désirent une vie spirituelle épanouie et équilibrée, les auteurs proposent dix clés puisées dans la richesse de la Parole de Dieu. Ces clés ouvrent avec bonheur des perspectives nouvelles et stimulantes dans des domaines aussi essentiels que le développement de notre personnalité et de nos dons, la compréhension de notre époque, le témoignage, la prière, la souffrance, l’église...
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)

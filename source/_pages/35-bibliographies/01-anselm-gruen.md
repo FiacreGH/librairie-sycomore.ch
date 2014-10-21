@@ -6,39 +6,36 @@ title: Anselm Grün
 Anselm Grün
 ===========
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Petit manuel de la guérison intérieure</span></span>, Albin Michel.
+***Petit manuel de la guérison intérieure***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">L'art de bien vieillir</span></span>, Albin Michel.
+***L'art de bien vieillir***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Invitation à la sérénité du coeur</span></span>, Albin Michel.
+***Invitation à la sérénité du coeur***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">L'art de vivre en harmonie</span></span>, Albin Michel.
+***L'art de vivre en harmonie***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Se réconcilier avec la mort</span></span>, Albin Michel.
+***Se réconcilier avec la mort***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Chacun cherche son ange</span></span>, Albin Michel.
+***Chacun cherche son ange***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Petit traité de spiritualité au quotidien</span></span>, Albin Michel.
+***Petit traité de spiritualité au quotidien***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Petit méditation sur le mystère de l'amitié</span></span>, Albin Michel.
+***Petit méditation sur le mystère de l'amitié***, Albin Michel.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Le petit livre des anges</span></span>, Éditions Salvator.
+***Le petit livre des anges***, Éditions Salvator.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Les huit secrets du bonheur</span></span>, Éditions Salvator.
+***Les huit secrets du bonheur***, Éditions Salvator.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">À la source de la force intérieure</span></span>, Éditions Salvator.<span style="font-weight: bold;"></span>
+***À la source de la force intérieure***, Éditions Salvator.</span>
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Apprendre à faire silence</span></span>, Desclée de Brouwer.
+***Apprendre à faire silence***, Desclée de Brouwer.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">La mystique. La quête de l'espace intérieur</span></span>, Éditions Salvator.
+***La mystique. La quête de l'espace intérieur***, Éditions Salvator.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Une pensée par jour</span></span>, Mediaspaul.
+***Une pensée par jour***, Mediaspaul.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Ce que je veux je ne le fais pas</span></span>, Mediaspaul.
+***Ce que je veux je ne le fais pas***, Mediaspaul.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Le petit libre du bonheur véritable</span></span>, Éditions Salvator.
+***Le petit libre du bonheur véritable***, Éditions Salvator.
 
-<span style="font-weight: bold;"><span style="font-style: italic;">Prier le Notre Père</span></span>, Mediaspaul.
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)
+***Prier le Notre Père***, Mediaspaul.

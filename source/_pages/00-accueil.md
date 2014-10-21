@@ -22,9 +22,8 @@ Pour marquer ce bel anniversaire, [diverses manifestations](/30ans/) auront lieu
 **A votre service:**
 
 
-**Mardi -  Vendredi:       9h30 -  12h30**
-
-<span style="font-weight: bold;">                                  14h00 - 18</span><span style="font-weight: bold;">h00</span><span style="font-weight: bold;">
-</span>
-
-<span style="font-weight: bold;">Samedi:                       9h30 - 12h30</span>
+| Mardi -  Vendredi: | 09h30 - 12h30     |
+| ------------------ | ----------------- |
+|                    | **14h00 - 18h00** |
+|                    |                   |
+| **Samedi:**        | **09h30 - 12h30** |

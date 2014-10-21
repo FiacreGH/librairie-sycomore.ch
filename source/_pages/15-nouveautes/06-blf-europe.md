@@ -5,7 +5,7 @@ title: BLF Europe
 BLF Europe
 ==========
 
-***![](/images/logo_blf.jpg)Choix de nouveautés 2011 de [BLF Europe](http://www.blfeurope.com/boutique/nouveautes).***
+***![](/images/logo_blf.jpg){.float-right}Choix de nouveautés 2011 de [BLF Europe](http://www.blfeurope.com/boutique/nouveautes).***
 
 **Francis Chan – Crazy love - Amour fou**, chez BLF Europe
 
@@ -26,6 +26,3 @@ Anges et humanité en rebellion ouverte! Découvrez la Genèse et l’Exode com
 **Warren Wiersbe – Soyez heureux**. Pour vivre la joie en Christ, BLF Europe
 
 Jésus a promis que son enseignement rendra notre joie parfaite. Vous avez peut-être du mal à l’éprouver. Warren Wiersbe a un message pour vous : il met en relief tous les trésors de cette épître de la joie adressée aux Philippiens par Paul. Il identifie les voleurs de joie, démontre que la crainte peut être bannie, et fournit la clé de la vraie joie. Imprégné de l’enseignement donné aux Philippiens, goûtez une vie chrétienne heureuse ! Changez de cap, découvrez le secret de la joie et marchez dans la lumière!
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)

@@ -15,7 +15,6 @@ Jim Cymbala sait mieux que quiconque évoquer la lourdeur des contraintes qui ma
 
 Jamais les paroles et les actions d'un homme n'ont suscité à la fois autant de haine et d'amour dans les coeurs que celles de Jésus de Nazareth. Mais au fait, qu 'a-t-il réellement dit et qu' a-t-il vraiment fait pour causer de telles réactions ? Jean-Claude Florin ne s'est pas contenté des ouï-dire: il a puisé lui-même aux sources évangéliques ! Le lecteur ne pourra rester indifférent: ou il s'attachera davantage encore à celui qui a été appelé l'ami des pécheurs et des gens de mauvaise vie, ou il s'en éloignera toujours plus. Dans un monde en manque de repères, « La plus belle histoire d'amour» nous ouvre de nouveaux horizons de paix et d'espérance.
 
-<span style="font-family: 'Times New Roman'; font-size: medium; "></span>
 
 **Ed Underwood – Quand Dieu vous brise…**, chez Vida
 
@@ -36,6 +35,3 @@ Ce livre, destiné aux chrétiens, explique comment construire des relations sai
 3) Libérer la puissance et la bénédiction de Dieu.
 
 En fin de livre, il y a de la place pour des notes personnelles.
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)

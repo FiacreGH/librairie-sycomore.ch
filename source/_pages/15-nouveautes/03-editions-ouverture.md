@@ -6,13 +6,13 @@ title: Éditions Ouverture
 Éditions Ouverture
 ==================
 
-***![](/images/nav_bleu-1.gif)Choix de nouveautés aux [Editions Ouvertures](http://www.editionsouverture.ch/ouvrages/nouveaute.php) 2011***
+***![](/images/nav_bleu-1.gif){.float-right}Choix de nouveautés aux [Editions Ouvertures](http://www.editionsouverture.ch/ouvrages/nouveaute.php) 2011***
 
-<span style="font-family:&quot;Georgia&quot;,&quot;serif&quot;; mso-bidi-font-family:Arial">Francine Carrillo – Le sable de l’instant</span>
+**Francine Carrillo – Le sable de l’instant**
 
-<span style="font-size:11.0pt;font-family:&quot;Georgia&quot;,&quot;serif&quot;; mso-bidi-font-family:Arial">En peu de mots, l’auteur capte et traduit les sentiments qui nous traversent toutes et tous. Et ces mots glissent doucement vers l’âme ; la vie pénètre ; la beauté sourit. Francine Carrillo les tisse, marie à chaque page le profane et le sacré.</span><span style="font-size:11.0pt;font-family:&quot;Georgia&quot;,&quot;serif&quot;; mso-bidi-font-family:Arial"> Les mots ! « *<span style="font-family:&quot;Georgia&quot;,&quot;serif&quot;; mso-bidi-font-family:Arial">La parole est mon outil. Et je n’aime guère les discours dogmatiques. C’est peut-être pourquoi j’utilise la poésie qui évoque plutôt que d’affirmer</span>*. » Tribune de Genève</span> Une poésie, toute en finesse et sobriété qui touche le lecteur en son coeur.
+En peu de mots, l’auteur capte et traduit les sentiments qui nous traversent toutes et tous. Et ces mots glissent doucement vers l’âme ; la vie pénètre ; la beauté sourit. Francine Carrillo les tisse, marie à chaque page le profane et le sacré. Les mots ! « *La parole est mon outil. Et je n’aime guère les discours dogmatiques. C’est peut-être pourquoi j’utilise la poésie qui évoque plutôt que d’affirmer*. » Tribune de Genève Une poésie, toute en finesse et sobriété qui touche le lecteur en son coeur.
 
-<span style="font-weight: bold;">Francine Carrillo - Guérir... mais de quoi?</span>
+**Francine Carrillo - Guérir... mais de quoi?**
 
 Alors guérir... mais de quoi? De toutes ces pensées qui entament l'estime de soi, qui polluent notre regard comme notre corps et nous empêchent de célébrer la vie comme un don. Si la santé a la couleur des pensées qui nous habitent, l'urgence est de veiller à être là où nos pensées nous parlent de vivre de ce qui est vivant en laissant mourir ce qui est mort.
 
@@ -35,8 +35,3 @@ Voilà un ouvrage où sont jetées en vrac des réflexions sur ce livre étrange
 **Renato Zilio – Au commencement était le rythme**
 
 Appel à partager généreusement, dans un accueil fraternel et ouvert, les différences qui font la richesse de chaque culture. D'un regard insolite, d'une parole poétique, philosophique, l'auteur laisse transparaître dans son langage la passion qui l'habite : la construction d'une unité vivante et féconde, faite de la communion de nos différences. Où chacun laisse l'autre entrevoir son mystère et dans cet échange grandit en humanité.
-
- 
-
-Librairie chrétienne Le Sycomore • 2000 Neuchâtel • 032 725 78 68 •
-• conception [Ecodev](http://ecodev.ch)

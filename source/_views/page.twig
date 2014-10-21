@@ -3,11 +3,11 @@
 
     <div id="avmenu">
 
-
         <ul>
             {% for menu in page.menu %}
                 <li>
-                    <a href="{{ site.url }}/{{ menu.slug|url_encode(true) }}" {% if menu.slug == page.slug %}class="active" {% endif %}>{{ menu.title }}</a>
+                    <a href="{{ site.url }}/{{ menu.slug|url_encode(true) }}"
+                       {% if menu.slug == page.slug %}class="active" {% endif %}>{{ menu.title }}</a>
                 </li>
             {% endfor %}
         </ul>
