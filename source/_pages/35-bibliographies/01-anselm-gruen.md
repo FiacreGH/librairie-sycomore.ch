@@ -26,7 +26,7 @@ Anselm Grün
 
 ***Les huit secrets du bonheur***, Éditions Salvator.
 
-***À la source de la force intérieure***, Éditions Salvator.</span>
+***À la source de la force intérieure***, Éditions Salvator.
 
 ***Apprendre à faire silence***, Desclée de Brouwer.
 

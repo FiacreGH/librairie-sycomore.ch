@@ -5,7 +5,7 @@ title: Labor et Fides
 Labor et Fides
 ==============
 
-<span style="font-style: italic;">![](/images/logo.jpg){.float-right}**Choix de nouveautés [Labor et Fides](http://www.laboretfides.com/?cat=new)2011**
+***![](/images/logo.jpg){.float-right}Choix de nouveautés [Labor et Fides](http://www.laboretfides.com/?cat=new)2011***
 
  
 

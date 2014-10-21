@@ -12,7 +12,6 @@ body {
 	background: #f4f4f4 url(bg.gif) top center repeat-y;
 }
 
-
 #wrap {
 	background: #ffffff;
 	color: #303030;
@@ -39,13 +38,13 @@ body {
 	line-height: 1.8em;
 }
 
-#avmenu ul li a:active{
+#menu ul li a.active {
 	background: #eaeaea;
-	color: #336633;
-	border-left: 4px solid #336633;
+	color: #306630;
+	border-left: 4px solid #206614;
 }
 
-#avmenu {
+#menu {
 	clear: left;
 	float: left;
 	width: 150px;
@@ -54,62 +53,40 @@ body {
 	font-size: 1em;
 }
 
-#avmenu ul {
+#menu ul {
 	list-style: none;
 	width: 150px;
 	margin: 0 0 20px 0;
 	padding: 0;
 }
 
-#avmenu ul li {
+#menu ul li {
 	margin-bottom: 4px;
 	list-style: none;
 }
 
-#avmenu ul li a {
+#menu ul li a {
 	font-weight: bold;
 	height: 20px;
 	text-decoration: none;
-	color: #505050;
+	color: rgba(136, 139, 142, 0.93);
 	display: block;
 	padding: 6px 0 0 10px;
 	background: #f4f4f4;
 	border-left: 4px solid #cccccc;
 }
 
-#avmenu ul li a:hover {
+#menu ul li a:hover {
 	background: #eaeaea;
 	color: #336633;
 	border-left: 4px solid #336633;
 }
 
-#avmenu ul li div a {
+#menu ul li div a {
 	background: #eaeaea;
 	color: #336633;
 	border-left: 4px solid #336633;
 	padding: 6px 0 0 0px;
-}
-
-.announce {
-	margin: 10px 0 10px 0;
-	padding: 10px;
-	width: 130px;
-	color: #505050;
-	background-color: #f4f4f4;
-	line-height: 1.3em;
-}
-
-#extras {
-	float: right;
-	width: 100px;
-	margin: 0 0 10px 0;
-	padding: 0;
-	font-size: 0.9em;
-	line-height: 1.5em;
-}
-
-#extras p {
-	margin: 0 0 1.5em 0;
 }
 
 #content {
@@ -262,15 +239,6 @@ a img {
 	margin-top: 10px;
 }
 
-.indent {
-	margin-left: 40px;
-}
-
-.small_info {
-	font-size: smaller;
-	color: gray;
-}
-
 a div.errorBox span.error {
 	background-color: yellow;
 	color: red;
@@ -285,11 +253,18 @@ a:hover div.errorBox span.error {
 .float-right {
 	float: right;
 }
-.float-left {
-	float: left;
+
+.float-right1 {
+	float: right;
+	margin-left: 10px;
 }
 
-img.image{
+.float-left {
+	float: left;
+	margin-right: 10px;
+}
+
+img.image {
 	margin-left: 10px;
 	width: 94px;
 	height: 122px;
