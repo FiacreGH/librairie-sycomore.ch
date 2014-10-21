@@ -40,8 +40,8 @@ body {
 
 #menu ul li a.active {
 	background: #eaeaea;
-	color: #306630;
-	border-left: 4px solid #206614;
+	color: #336633;
+	border-left: 4px solid #336633;
 }
 
 #menu {
@@ -69,7 +69,7 @@ body {
 	font-weight: bold;
 	height: 20px;
 	text-decoration: none;
-	color: rgba(136, 139, 142, 0.93);
+	color: #505050;
 	display: block;
 	padding: 6px 0 0 10px;
 	background: #f4f4f4;
